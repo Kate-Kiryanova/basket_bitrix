@@ -1,1 +1,1 @@
-# basket_bitrix
+# Add item to basket from section and detail page, bitrix
